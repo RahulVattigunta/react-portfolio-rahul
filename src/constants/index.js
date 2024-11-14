@@ -29,7 +29,7 @@ audience.`,
   },
   {
     year: "Jan 2021 - Jan 2022",
-    role: "Software Tester Intern",
+    role: "Full Stack Engineer",
     company: "Matryxsoft Tech LLP",
     description: `Development/Debugging of Test cases using reusable steps in Manual and Automation as per IEEE standards. Created a module on cash management systems.`,
     technologies: ["Testing", "Selenium", "SDLC"],
