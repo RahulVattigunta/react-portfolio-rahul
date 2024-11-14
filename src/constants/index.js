@@ -3,8 +3,9 @@ import project2 from "../assets/projects/project-2.jpg";
 import project3 from "../assets/projects/project-3.jpg";
 import project4 from "../assets/projects/project-4.jpg";
 import project5 from "../assets/projects/project-5.jpg";
+import project6 from "../assets/projects/project-6.png";
 
-export const HERO_CONTENT = `I am a passionate Full Stack Developer and Graphic Designer with a Master’s degree from California State University Dominguez Hills and a Bachelor's from Presidency University, Bengaluru. With a solid foundation in programming, AI, and software engineering, I have 5 years of hands-on experience in front-end technologies like React and Next.js, as well as back-end systems such as Node.js, MySQL, and MongoDB. I also bring expertise in Adobe Creative Suite, creating innovative solutions that drive business growth and deliver exceptional user experiences.`;
+export const HERO_CONTENT = `Detail-oriented Full Stack Developer with expertise in designing and building scalable web applications using modern frameworks and technologies. Proficient in both font-end and back-end development, ensuring seamless user experiences and efficient system operations. Leverages experience as a Business Analyst and Scrum Master to facilitate collaborating across teams to gather requirements, analyze needs, and implement innovative solutions that drive technical and business growth. Combines strong problem-solving skills with a deep understanding of web architecture, delivering optimized and robust software solutions.`;
 
 export const ABOUT_TEXT = `I am a skilled computer science professional with a Master’s from California State University Dominguez Hills and a Bachelor's from Presidency University, Bengaluru. My strong foundation in programming, AI, and software engineering, combined with 5 years of full-stack development experience, has allowed me to excel in front-end technologies like React and Next.js, and back-end systems such as Node.js, MySQL, PostgreSQL, and MongoDB.
 
@@ -14,10 +15,8 @@ export const EXPERIENCES = [
   {
     year: "Sep 2023 - May 2024",
     role: "Graphic Designer",
-    company: "Loker Student Union",
-    description: `Developed comprehensive marketing packages for events at the Loker Student Union utilizing Adobe Creative Cloud
-suite,showcasing expertise in graphic design.Managed social media content creation, including recording and editing videos, to effectively promote events and engage
-audience.`,
+    company: "California State Univeristy Dominguez Hills",
+    description: `created comprehensive marketing packages for events using the Adobe Creative Cloud suite, demonstrating 95% proficiency in Graphic Design and UI/UX. Managing and developing social media content, including video recording and editing, I increased event engagement by 30%. I successfully completed around 50 projects, delivering marketing materials and video content that strengthened brand exposure. Additionally, I applied web development techniques to ensure user-friendly and responsive digital content, leading to a 20% improvement in website performance and user experience`,
     technologies: ["Adobe Illustrator", "Adobe After Effects", "Adobe Photoshop", "CapCut"],
   },
   {
@@ -31,8 +30,8 @@ audience.`,
     year: "Jan 2021 - Jan 2022",
     role: "Full Stack Engineer",
     company: "Matryxsoft Tech LLP",
-    description: `Development/Debugging of Test cases using reusable steps in Manual and Automation as per IEEE standards. Created a module on cash management systems.`,
-    technologies: ["Testing", "Selenium", "SDLC"],
+    description: `Efficiently guided diverse stakeholders through requirements discovery, analysis, and review, reducing time to market by 15%. Using SQL, Tableau, and Excel, I assessed demographic data to drive strategic planning. I developed dynamic front-end components with React.js and Angular to enhance user experience and reduce page load times, ensuring optimal performance across various devices and browsers. I improved code stability by implementing comprehensive unit and integration tests with frameworks like Jest, Mocha, and JUnit, increasing code coverage by 30% and reducing deployment risks. Additionally, I optimized server-side logic with Node.js and Java, fine-tuned database queries for faster response times, and deployed solutions on AWS and Google Cloud for scalability. Documenting development processes improved onboarding efficiency by 25%`,
+    technologies: ["React.js", "Angular", "Node.js", "AWS"],
   },
   {
     year: "May 2021 - Jun 2021",
@@ -47,12 +46,19 @@ audience.`,
     year: "May 2019 - Aug 2019",
     role: "Full Stack Engineer",
     company: "Hindustan Aeronautics Limited",
-    description: `Collaborated with cross-functional teams to support network infrastructure projects. Assisted in monitoring network performance and identifying areas for optimization. Gained hands-on experience with network monitoring tools and technologies. Worked closely with the IT team to ensure network security and compliance with best practices. Actively learned and applied industry-standard protocols and technologies, such as TCP/IP, VLANs, and routing protocols.`,
-    technologies: ["TCP/IP & Routing Protocols", "Network Security"],
+    description: `Customized eight reports tailored to business requirements and conducted GAP analysis to enhance data accessibility. By identifying key business processes, I led the creation of comprehensive business and system requirements, including functional and non-functional specifications. Collaborating closely with cross-functional teams, I developed and maintained web applications, ensuring seamless integration between front-end and back-end components. I designed and implemented RESTful APIs to facilitate efficient data communication and partnered with DevOps to manage deployments and maintain CI/CD pipelines. I adhered to industry best practices, writing clean, maintainable code and using Git for version control. Additionally, I leveraged frameworks such as React, Node.js, and Express to deliver robust and scalable solutions.`,
+    technologies: ["React", "Node.js", "Express"],
   },
 ];
 
 export const PROJECTS = [
+  {
+    title: "ChatGPT Proactive Protection Against Malicious Engagements",
+    image: project6,
+    description:
+      "Developed and maintained a Flask-based web application with front-end optimization using SASS and Twig, and Python for detecting toxic language in user text. By leveraging NLP techniques and machine learning models like logistic regression and support vector machines, I ensured effective toxicity classification. I integrated python-docx to dynamically load criteria from Word documents, enhancing customization for diverse user needs. Using scikit-learn, I trained and tested ML algorithms for real-time toxic content assessment, and employed NLTK for text preprocessing to optimize model performance. The responsive user interface was built with Bootstrap, HTML/CSS, JavaScript, and AJAX for seamless real-time updates. Comprehensive error handling and user feedback mechanisms, along with testing using pytest, ensured system reliability and model accuracy.",
+    technologies: ["Flask", "Python", "scikit-learn", "Bootstrap"],
+  },
   {
     title: "Enterprise Electronic Health Record (EHR) System",
     image: project1,

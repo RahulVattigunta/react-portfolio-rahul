@@ -29,7 +29,7 @@ const Hero = () => {
                     animate="visible"   
                     whileHover={{scale: 1.2}} whileTap={{scale: 1.1}} drag="x" dragConstraints={{left: -100, right:100}} 
                     className="bg-gradient-to-r from-pink-300 via-slate-500 to-purple-500 bg-clip-text text-3xl tracking-tight 
-                    text-transparent">Full Stack Developer/Graphic Designer</motion.span>
+                    text-transparent">Full Stack Developer/Graphic Designer/Business Analyst</motion.span>
                     <motion.p  
                     variants={container(1)}
                     initial="hidden"
