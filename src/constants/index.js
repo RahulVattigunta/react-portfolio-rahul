@@ -44,8 +44,8 @@ audience.`,
     technologies: ["Business Development", "Research", "Strategic Planning", "Problem-Solving"],
   },
   {
-    year: "Jun 2019 - Jul 2019",
-    role: "Network Engineer Intern",
+    year: "May 2019 - Aug 2019",
+    role: "Full Stack Engineer",
     company: "Hindustan Aeronautics Limited",
     description: `Collaborated with cross-functional teams to support network infrastructure projects. Assisted in monitoring network performance and identifying areas for optimization. Gained hands-on experience with network monitoring tools and technologies. Worked closely with the IT team to ensure network security and compliance with best practices. Actively learned and applied industry-standard protocols and technologies, such as TCP/IP, VLANs, and routing protocols.`,
     technologies: ["TCP/IP & Routing Protocols", "Network Security"],
@@ -91,7 +91,7 @@ export const PROJECTS = [
 ];
 
 export const CONTACT = {
-  address: "5002 Buttonwood CT, NJ 08852 ",
+  address: "5050 E Garford St Long Beach, CA 90815 ",
   phoneNo: "+1(562)380-5022",
   email: "vattiguntarahul9@gmail.com",
 };
