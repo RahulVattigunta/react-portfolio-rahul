@@ -16,7 +16,7 @@ export const EXPERIENCES = [
     year: "Sep 2023 - May 2024",
     role: "Graphic Designer",
     company: "California State Univeristy Dominguez Hills",
-    description: `created comprehensive marketing packages for events using the Adobe Creative Cloud suite, demonstrating 95% proficiency in Graphic Design and UI/UX. Managing and developing social media content, including video recording and editing, I increased event engagement by 30%. I successfully completed around 50 projects, delivering marketing materials and video content that strengthened brand exposure. Additionally, I applied web development techniques to ensure user-friendly and responsive digital content, leading to a 20% improvement in website performance and user experience`,
+    description: `Created comprehensive marketing packages for events using the Adobe Creative Cloud suite, demonstrating 95% proficiency in Graphic Design and UI/UX. Managing and developing social media content, including video recording and editing, I increased event engagement by 30%. I successfully completed around 50 projects, delivering marketing materials and video content that strengthened brand exposure. Additionally, I applied web development techniques to ensure user-friendly and responsive digital content, leading to a 20% improvement in website performance and user experience`,
     technologies: ["Adobe Illustrator", "Adobe After Effects", "Adobe Photoshop", "CapCut"],
   },
   {
