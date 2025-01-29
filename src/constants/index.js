@@ -41,6 +41,13 @@ export const EXPERIENCES = [
     technologies: ["Public Speaking", "Advocating", "Leadership", "Engagement"],
   },
   {
+    year: "Sep 2022 - Sep 2023",
+    role: "Full Stack Developer",
+    company: "Transaction Analysts",
+    description: `Played a pivotal role in redeveloping the TA Wallet app using Flutter, enhancing functionality and user experience across platforms. Designed intuitive, responsive UIs, integrated RESTful APIs for real-time data updates, and managed backend operations with Firebase. Conducted performance testing and debugging to optimize app performance, ensuring scalability and reliability.`,
+    technologies: ["React.js", "Angular", "Node.js", "AWS"],
+  },
+  {
     year: "Jan 2021 - Jan 2022",
     role: "Full Stack Engineer",
     company: "Matryxsoft Tech LLP",
@@ -115,3 +122,6 @@ export const CONTACT = {
   phoneNo: "+1(562)380-5022",
   email: "vattiguntarahul9@gmail.com",
 };
+
+
+
