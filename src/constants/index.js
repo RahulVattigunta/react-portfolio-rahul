@@ -48,7 +48,7 @@ export const EXPERIENCES = [
     technologies: ["React.js", "Angular", "Node.js", "AWS"],
   },
   {
-    year: "Jan 2021 - Jan 2022",
+    year: "Oct 2019 - May 2022",
     role: "Full Stack Engineer",
     company: "Matryxsoft Tech LLP",
     description: `Efficiently guided diverse stakeholders through requirements discovery, analysis, and review, reducing time to market by 15%. Using SQL, Tableau, and Excel, I assessed demographic data to drive strategic planning. I developed dynamic front-end components with React.js and Angular to enhance user experience and reduce page load times, ensuring optimal performance across various devices and browsers. I improved code stability by implementing comprehensive unit and integration tests with frameworks like Jest, Mocha, and JUnit, increasing code coverage by 30% and reducing deployment risks. Additionally, I optimized server-side logic with Node.js and Java, fine-tuned database queries for faster response times, and deployed solutions on AWS and Google Cloud for scalability. Documenting development processes improved onboarding efficiency by 25%`,
